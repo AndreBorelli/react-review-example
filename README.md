@@ -10,9 +10,11 @@
 
     Using useState Hook to set the state of API array, to change dinamically the display of the Review;
     
-    Use of 'react-icons';
-    
     Validation Functions.
+    
+## React Icons
+
+    [react icons](https://react-icons.github.io/react-icons/)
 
 
 ## Changes regarding the course design:
