@@ -8,7 +8,7 @@
 
     API access;
 
-    Using useState Hook set the state of API array, and change the display of the Review;
+    Using useState Hook to set the state of API array, to change dinamically the display of the Review;
     
     Use of 'react-icons';
     
