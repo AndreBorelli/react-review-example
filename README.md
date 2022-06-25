@@ -12,6 +12,8 @@
     Math functions funcionality;
     
     Validation functions;
+    
+    Use of 'react-icons'.
 
 
  ## Changes regarding the course design:
