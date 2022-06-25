@@ -1,2 +1,20 @@
 # react-review-example
-Exercise from Joh Smilga's course, available at the url "https://www.youtube.com/watch?v=a_7Z7C_JCyo", which teaches how to make more than 15 projects, simple but with important concepts in the React Js language.
+## Exercise from John Smilga's course, where several simple React projects are taught.
+    [https://www.youtube.com/watch?v=a_7Z7C_JCyo]
+
+
+## Functionalities:
+
+    API access;
+
+    Using useState Hook to pass dinamic states to the array position;
+    
+    Math functions funcionality;
+    
+    Validation functions;
+
+
+ ## Changes regarding the course design:
+
+    Two new css variables were created, changing the color of the site, the buttons and icons with a color to my liking.
+
